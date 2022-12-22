@@ -1,11 +1,13 @@
 Package: crgeo
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Spatial data for Costa Rica
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
+Author: Manuel Spínola
+Maintainer: Manuel Spínola <mspinola10@gmail.com>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/ManuelSpinola/crgeo
+BugReports: https://github.com/ManuelSpinola/crgeo/issues

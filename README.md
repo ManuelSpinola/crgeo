@@ -24,7 +24,7 @@ devtools::install_github("ManuelSpinola/crgeo")
 
 ## Example
 
-This is a basic example which shows you how to solve a common problem:
+This is a basic example how to use the data in the package:
 
 ``` r
 library(crgeo)

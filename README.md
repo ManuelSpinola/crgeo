@@ -10,7 +10,7 @@ status](https://travis-ci.com/ManuelSpinola/crgeo.svg?branch=master)](https://tr
 [![R-CMD-check](https://github.com/ManuelSpinola/crgeo/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ManuelSpinola/crgeo/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
-The goal of crgeo is to …
+The goal of crgeo is to access geospatial data for Costa Rica
 
 ## Installation
 
@@ -53,7 +53,7 @@ example workflow can be found here:
 
 You can also embed plots, for example:
 
-<img src="man/figures/README-pressure-1.png" width="100%" />
+<img src="man/figures/crgeo_c.pngpressure-1.png" width="100%" />
 
 In that case, don’t forget to commit and push the resulting figure
 files, so they display on GitHub and CRAN.

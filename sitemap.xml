@@ -16,6 +16,12 @@
     <loc>https://manuelspinola.github.io/crgeo/index.html</loc>
   </url>
   <url>
+    <loc>https://manuelspinola.github.io/crgeo/reference/cr_bio.html</loc>
+  </url>
+  <url>
+    <loc>https://manuelspinola.github.io/crgeo/reference/cr_bio_c.html</loc>
+  </url>
+  <url>
     <loc>https://manuelspinola.github.io/crgeo/reference/cr_cantons.html</loc>
   </url>
   <url>
@@ -55,10 +61,46 @@
     <loc>https://manuelspinola.github.io/crgeo/reference/cr_pop_density_2020_1km_c.html</loc>
   </url>
   <url>
+    <loc>https://manuelspinola.github.io/crgeo/reference/cr_prec.html</loc>
+  </url>
+  <url>
+    <loc>https://manuelspinola.github.io/crgeo/reference/cr_prec_c.html</loc>
+  </url>
+  <url>
     <loc>https://manuelspinola.github.io/crgeo/reference/cr_provinces.html</loc>
   </url>
   <url>
     <loc>https://manuelspinola.github.io/crgeo/reference/cr_provinces_c.html</loc>
+  </url>
+  <url>
+    <loc>https://manuelspinola.github.io/crgeo/reference/cr_srad.html</loc>
+  </url>
+  <url>
+    <loc>https://manuelspinola.github.io/crgeo/reference/cr_srad_c.html</loc>
+  </url>
+  <url>
+    <loc>https://manuelspinola.github.io/crgeo/reference/cr_tavg.html</loc>
+  </url>
+  <url>
+    <loc>https://manuelspinola.github.io/crgeo/reference/cr_tavg_c.html</loc>
+  </url>
+  <url>
+    <loc>https://manuelspinola.github.io/crgeo/reference/cr_tmax.html</loc>
+  </url>
+  <url>
+    <loc>https://manuelspinola.github.io/crgeo/reference/cr_tmax_c.html</loc>
+  </url>
+  <url>
+    <loc>https://manuelspinola.github.io/crgeo/reference/cr_tmin.html</loc>
+  </url>
+  <url>
+    <loc>https://manuelspinola.github.io/crgeo/reference/cr_tmin_c.html</loc>
+  </url>
+  <url>
+    <loc>https://manuelspinola.github.io/crgeo/reference/cr_wind.html</loc>
+  </url>
+  <url>
+    <loc>https://manuelspinola.github.io/crgeo/reference/cr_wind_c.html</loc>
   </url>
   <url>
     <loc>https://manuelspinola.github.io/crgeo/reference/index.html</loc>

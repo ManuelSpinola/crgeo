@@ -2,6 +2,3 @@ url: https://manuelspinola.github.io/crgeo/
 template:
   bootstrap: 5
 
-development:
-  mode: auto
-

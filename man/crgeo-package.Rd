@@ -14,6 +14,7 @@ Contains geospatial data of Costa Rica.
 Useful links:
 \itemize{
   \item \url{https://github.com/ManuelSpinola/crgeo}
+  \item \url{https://manuelspinola.github.io/crgeo/}
   \item Report bugs at \url{https://github.com/ManuelSpinola/crgeo/issues}
 }
 

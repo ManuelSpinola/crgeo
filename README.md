@@ -28,24 +28,25 @@ This is a basic example how to use the data in the package:
 
 ``` r
 library(crgeo)
+library(tidyverse)
 library(sf)
-#> Linking to GEOS 3.10.2, GDAL 3.4.2, PROJ 8.2.1; sf_use_s2() is TRUE
-## basic example code
+library(stars)
 ```
 
 ``` r
-cr_outline
-#> Simple feature collection with 1 feature and 1 field
-#> Geometry type: MULTIPOLYGON
-#> Dimension:     XY
-#> Bounding box:  xmin: -87.10185 ymin: 5.49857 xmax: -82.55232 ymax: 11.21976
-#> Geodetic CRS:  WGS 84
-#>      COUNTRY                           geom
-#> 1 Costa Rica MULTIPOLYGON (((-87.06877 5...
+ggplot(cr_outline) +
+  geom_sf(fill = "dodgerblue4", color = "gray") +
+  theme_minimal()
 ```
 
+<img src="man/figures/README-cr_outline-1.png" width="100%" />
+
 ``` r
-plot(cr_outline)
+ggplot() +
+  geom_stars(data = cr_elevation_c) +
+  scale_fill_viridis_c(name = "Altura (m)", na.value = "transparent") +
+  theme_minimal() +
+  coord_equal()
 ```
 
 <img src="man/figures/README-cr_mapa-1.png" width="100%" />

@@ -36,20 +36,27 @@ devtools::install_github("ManuelSpinola/crgeo")
 
 This is a basic example how to use the data in the package:
 
-```{r example}
+```{r example, message=FALSE, warning=FALSE}
 library(crgeo)
+library(tidyverse)
 library(sf)
-## basic example code
+library(stars)
 ```
 
 
 ```{r cr_outline}
-cr_outline
+ggplot(cr_outline) +
+  geom_sf(fill = "dodgerblue4", color = "gray") +
+  theme_minimal()
 ```
 
 
 ```{r cr_mapa}
-plot(cr_outline)
+ggplot() +
+  geom_stars(data = cr_elevation_c) +
+  scale_fill_viridis_c(name = "Altura (m)", na.value = "transparent") +
+  theme_minimal() +
+  coord_equal()
 ```
 
 

@@ -1,13 +1,11 @@
+crgeo: Geospatial data of Costa Rica
+================
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # crgeo <img src="man/figures/logo.png" align="right" height="139" />
 
 <!-- badges: start -->
-
-[![Travis build
-status](https://travis-ci.com/ManuelSpinola/crgeo.svg?branch=master)](https://travis-ci.com/ManuelSpinola/crgeo)
-[![R-CMD-check](https://github.com/ManuelSpinola/crgeo/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ManuelSpinola/crgeo/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of crgeo is to provide geospatial data for Costa Rica

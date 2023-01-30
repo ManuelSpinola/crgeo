@@ -1,16 +1,19 @@
 citHeader("To cite crgeo in publications use:")
 
 citEntry(
-  entry    = "@Manual",
-  title    = crgeo: Geospatial data of Costa Rica,
-  author   = Manuel Spínola,
+  entry    = "Manual",
+  title    = "crgeo: Geospatial data of Costa Rica",
+  author   = "Manuel Spínola",
   journal  = ,
-  year     = 2023,
+  year     = "2023",
   volume   = ,
   number   = ,
   pages    = ,
-  url      = https://github.com/ManuelSpinola/crgeo,
-  textVersion = paste(
+  url      = "https://github.com/ManuelSpinola/crgeo",
+  textVersion = paste("Manuel Spínola (2023).",
+                "crgeo: Geospatial data of Costa Rica.",
+                "R package version 0.1.0.",
+                "Available at https://github.com/ManuelSpinola/crgeo."
 
   )
 )

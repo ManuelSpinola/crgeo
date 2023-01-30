@@ -1,7 +1,7 @@
 citHeader("To cite crgeo in publications use:")
 
 citEntry(
-  entry    = "Manual",
+  entry    = "@Manual",
   title    = crgeo: Geospatial data of Costa Rica,
   author   = Manuel Spínola,
   journal  = ,

@@ -4,6 +4,7 @@ citEntry(
   entry    = "Manual",
   title    = "crgeo: Geospatial data of Costa Rica",
   author   = "Manuel Spínola",
+  note     = "R package version 0.1.0",
   year     = "2023",
   url      = "https://github.com/ManuelSpinola/crgeo",
   textVersion = paste("Manuel Spínola (2023).",

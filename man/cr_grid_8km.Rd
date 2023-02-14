@@ -6,7 +6,7 @@
 \alias{cr_grid_4km}
 \alias{cr_grid_2km}
 \alias{cr_grid_1km}
-\title{Hierachical spatial grid system for Costa Rica}
+\title{Hierarchical spatial grid system for Costa Rica}
 \format{
 A sf object with a spatial grid for Costa Rica (EPSG:5367)
 }
@@ -15,6 +15,9 @@ The map of Costa Rica was taken from \url{https://gadm.org/index.html}
 }
 \usage{
 cr_grid_8km
+cr_grid_4km
+cr_grid_2km
+cr_grid_1km
 }
 \description{
 Spatial square grids of 8km, 4km, 2km, and 1km for Costa Rica
